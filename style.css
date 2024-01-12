@@ -12,12 +12,7 @@ body{
 .main-div{
   padding: 20px 20px;
   font-weight: bold;
-  width: 100%;
-}
-
-.about{
-  padding: 10px 250px;
-
+  
 }
 
 .list{
@@ -37,5 +32,5 @@ h6{
 }
 
 .terms{
-  padding: 20px 200px;
+  padding: 20px 20px;
 }
