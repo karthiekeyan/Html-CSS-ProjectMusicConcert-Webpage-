@@ -2,6 +2,7 @@ body{
   background-color: #F4FFFD;
   color: black;
   font-family: 'Poppins', sans-serif;
+  width: 100%;
 }
 
 .head{
@@ -17,11 +18,15 @@ body{
 
 .list{
   padding: 20px 20px;
+  
 }
 
 .list-head{
   padding: 10px 10px;
 }
+
+
+
 
 .song-list{
   padding: 10px 10px;
